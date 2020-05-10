@@ -1,0 +1,6 @@
+[submodule "libs/framework7"]
+	path = libs/framework7
+	url = https://github.com/framework7io/framework7
+[submodule "libs/howler.js"]
+	path = libs/howler.js
+	url = https://github.com/goldfire/howler.js
